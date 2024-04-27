@@ -16,6 +16,8 @@ https://www.kaggle.com/datasets/danofer/compass/data
 1. African Americans have a higher False Positve Rate, and more individuals from this group may be unjustly subjected to harsher sentences or parole conditions
 2. Caucasians have a higher False Negative Rate, which could mean that the system is underestimating the risk of recidivism in this group
 3. The predictive alogorithm also fails to meet the 3 criteria (Predictive Parity, Equalized Odds and Demographic Parity) for fairness assessment of the model
+   <img width="750" alt="image" src="https://github.com/Anmol1311/Fairness-Analysis-of-Predictive-Algorithms/assets/142256926/eb975475-2050-453b-9c04-a081a1cad65a">
+
    
 ## Possible Mitigation Techniques:
 Resampling of data to ensure equal representation of all communities
