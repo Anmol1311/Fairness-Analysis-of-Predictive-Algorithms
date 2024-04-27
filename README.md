@@ -21,5 +21,5 @@ https://www.kaggle.com/datasets/danofer/compass/data
 
    
 ## Possible Mitigation Techniques:
-Resampling of data to ensure equal representation of all communities
-Reweighting the under represented communities to avoid sampling bias
+1. Resampling of data to ensure equal representation of all communities
+2. Reweighting the under represented communities to avoid sampling bias
